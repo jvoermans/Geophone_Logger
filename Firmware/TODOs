@@ -1,0 +1,13 @@
+- check all arrays for overflows
+- check all printf
+- simplify message logging logics: log part after part using several log_cstring commands (?)
+- pre initialize all buffers with '\0'
+- check all null bytes are well with backslash \ and not slash /
+
+- extract classes from the FastLogger.cpp
+- add compilation flags to the platformio.ini
+- add switch to put on / off
+- check all uses of printf, sprintf et co: risk to write at some strange places... replace by snprintf
+- I2C logics: make resistant to sensor dying
+- if cannot write to file too many times in a row, reset
+- refactor / go again through the whole code
