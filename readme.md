@@ -1,3 +1,5 @@
+**About**: This logger was designed as part of project [provide names]. Work and results are published in (submitted, under review). Data obtained during this project can be accessed at [provide URL].
+
 # Geophone logger
 **Introduction:** the geophone logger was designed with the aim to measure sea ice vibrations at high sampling rates (1000Hz) and accurate time synchronization using GPS (accuracy <<1ms). The logger records 5-ADC channels simultaneously at 12-bit and uses an Arduino Due as microcontroller. Files are written on SD-card.
 
