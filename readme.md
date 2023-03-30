@@ -1,5 +1,4 @@
 # Geophone logger
-**About**
 **Introduction:** the geophone logger was designed with the aim to measure sea ice vibrations at high sampling rates (1000Hz) and accurate time synchronization using GPS (accuracy <<1ms). The logger records 5-ADC channels simultaneously at 12-bit and uses an Arduino Due as microcontroller. Files are written on SD-card.
 
 <img src="https://github.com/jvoermans/Geophone_Logger/blob/main/Hardware/Photos/Picture3.jpg" width="400" />
