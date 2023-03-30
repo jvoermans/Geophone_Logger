@@ -7,4 +7,6 @@
 
 **Hardware:** the logger consists of an Arduino Due, GPS Ultimate breakout module, SD-card breakout module, voltage-regulator and 5x INA122 amplifiers. The gain of the amplifiers is set by resistors (connecting pins 1 and 8), we refer to the INA122 datasheet on gain-values. For the voltage dividers we use 100 Ohm resistors. Geophones are connected to the amplifiers, noting that the signal of one geophone is split to three amplifiers, allowing for higher sensitivity by chosing different gains. We refer to the Fritzing-diagram for further details on the hardware.
 
-**Data**: timeseries of the analog signals are stored as binary files on the SD-card and can be parsed usng the parsing files.
+**Firmware:** To Do
+
+**Data Analysis**: timeseries of the analog signals are stored as binary files on the SD-card and can be parsed usng the parsing files.
