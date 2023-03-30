@@ -28,8 +28,6 @@ def dump_keys(d, lvl=0):
                 dump_keys(v, lvl+1)
 
 # path to the data to parse
-# path_to_folder_data = Path("./all_example_data/example_data_geophone_temperature/")
-# path_to_folder_data = Path("./all_example_data/example_with_channel_stats")
 path_to_folder_data = Path("./example_data")
 
 
