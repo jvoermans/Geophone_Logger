@@ -1,4 +1,4 @@
-**About**: This logger was designed as part of project [provide names]. Work and results are published in (submitted, under review). Data obtained during this project can be accessed at [provide URL].
+**About**: This logger was designed as part of project "A method to identify sea-ice breakup: a pilot study (MISIB)", part of the Svalbard Science Forum program. Work and results are published in (submitted, under review). Data obtained during this project can be accessed at https://thredds.met.no/thredds/catalog/metusers/jeanr/data_papers/vibration_data_sea_ice_2022/catalog.html.
 
 # Geophone logger
 **Introduction:** the geophone logger was designed with the aim to measure sea ice vibrations at high sampling rates (1000Hz) and accurate time synchronization using GPS (accuracy <<1ms). The logger records 5-ADC channels simultaneously at 12-bit and uses an Arduino Due as microcontroller. Files are written on SD-card.
