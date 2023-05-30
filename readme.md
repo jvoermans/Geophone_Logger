@@ -1,4 +1,4 @@
-**About**: This logger was designed as part of project "A method to identify sea-ice breakup: a pilot study (MISIB)", part of the Svalbard Science Forum program. Work and results are published in (submitted, under review). Data obtained during this project can be accessed at https://thredds.met.no/thredds/catalog/metusers/jeanr/data_papers/vibration_data_sea_ice_2022/catalog.html.
+**About**: This logger was designed as part of project "A method to identify sea-ice breakup: a pilot study (MISIB)", part of the Svalbard Science Forum program. Work and results are published in (see preprint at https://arxiv.org/pdf/2305.06490.pdf ). Data obtained during this project can be accessed at https://thredds.met.no/thredds/catalog/metusers/jeanr/data_papers/vibration_data_sea_ice_2022/catalog.html.
 
 # Geophone logger
 
