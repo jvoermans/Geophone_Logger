@@ -1,4 +1,4 @@
-**About**: This logger was designed as part of project "A method to identify sea-ice breakup: a pilot study (MISIB)", part of the Svalbard Science Forum program. Work and results are published in (see preprint at https://arxiv.org/pdf/2305.06490.pdf ). Data obtained during this project can be accessed at https://thredds.met.no/thredds/catalog/metusers/jeanr/data_papers/vibration_data_sea_ice_2022/catalog.html.
+**About**: This logger was designed as part of project "A method to identify sea-ice breakup: a pilot study (MISIB)", part of the Svalbard Science Forum program. Work and results are published in (see preprint at https://arxiv.org/pdf/2305.06490.pdf ). Data obtained during this project can be accessed at https://adc.met.no/datasets/10.21343/5vhg-a209 .
 
 # Geophone logger
 
@@ -15,3 +15,22 @@
 # Previous resources / possible extended materials
 
 The content on the present repository is obtained from curating our "development" repository, available at: https://github.com/jvoermans/Vibration_Logger . There may be some additional (outdated, and / or not used in the end) information and code at the corresponding location, that may be useful to developers looking for more details and discussions (see the issues there for the discussions during development of the instruments, firmware, and decoder).
+
+# How to cite
+
+If using the materials here, please cite our paper:
+
+```
+Voermans, J. J., Rabault, J., Marchenko, A., Nose, T., Waseda, T., & Babanin, A. V. (2023).
+Estimating sea ice properties from wave observations in sea ice.
+arXiv preprint, arXiv:2305.06490.
+```
+
+And, if relevant, the data:
+
+```
+Voermans, J., Rabault, J., Marchenko, A., Nose, T., Waseda, T., & Babanin, A. (2023).
+Geophone and Hydrophone deployments is Svalbard for 2022 [Data set].
+Norwegian Meteorological Institute.
+https://doi.org/10.21343/5VHG-A209
+```
