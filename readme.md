@@ -30,7 +30,7 @@ And, if relevant, the data:
 
 ```
 Voermans, J., Rabault, J., Marchenko, A., Nose, T., Waseda, T., & Babanin, A. (2023).
-Geophone and Hydrophone deployments is Svalbard for 2022 [Data set].
+Geophone and Hydrophone deployments in Svalbard for 2022 [Data set].
 Norwegian Meteorological Institute.
 https://doi.org/10.21343/5VHG-A209
 ```
